@@ -2,89 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:3243/project/</loc>
-    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3243/project/2025-10-21-testing-things/</loc>
-    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3243/</loc>
-    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3243/tags/app/</loc>
-    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3243/categories/</loc>
-    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3243/categories/health-data/</loc>
-    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3243/project/health-data/</loc>
-    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3243/tags/nhs/</loc>
-    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3243/tags/r/</loc>
-    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3243/categories/r/</loc>
-    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3243/tags/shiny/</loc>
-    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3243/categories/shiny/</loc>
-    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3243/tags/</loc>
-    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3243/blog/football-series/2025-01-26-argentina-s-unsung-hero/</loc>
+    <loc>//localhost:4321/blog/football-series/2025-01-26-argentina-s-unsung-hero/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3243/tags/football/</loc>
+    <loc>//localhost:4321/categories/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3243/series/football/</loc>
+    <loc>//localhost:4321/tags/football/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3243/categories/football/</loc>
+    <loc>//localhost:4321/series/football/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3243/blog/football-series/</loc>
+    <loc>//localhost:4321/categories/football/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3243/tags/hugo-site/</loc>
+    <loc>//localhost:4321/blog/football-series/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3243/series/</loc>
+    <loc>//localhost:4321/tags/hugo-site/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3243/categories/soccer/</loc>
+    <loc>//localhost:4321/series/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3243/blog/</loc>
+    <loc>//localhost:4321/categories/soccer/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3243/tags/worldcup/</loc>
+    <loc>//localhost:4321/tags/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3243/collection/</loc>
+    <loc>//localhost:4321/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/blog/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/tags/worldcup/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/collection/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3243/collection/2025-01-20-world-cup-stats/</loc>
+    <loc>//localhost:4321/collection/2025-01-20-world-cup-stats/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3243/form/</loc>
+    <loc>//localhost:4321/project/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/categories/package/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/categories/r/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/project/giraffes/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/categories/theme-features/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/project/penguins/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/project/bakeoff/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/form/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
-    <loc>//localhost:3243/contact/</loc>
+    <loc>//localhost:4321/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
-    <loc>//localhost:3243/about/</loc>
+    <loc>//localhost:4321/about/</loc>
   </url><url>
-    <loc>//localhost:3243/license/</loc>
+    <loc>//localhost:4321/license/</loc>
   </url>
 </urlset>

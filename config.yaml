@@ -2,12 +2,12 @@ baseURL: '/'
 theme: hugo-apero
 languageCode: en
 title: Toochukwu's space
-author: Toochukwu Ogbonn
+author: Toochukwu Ogbonna
 copyright: ''
 googleAnalytics: ''
 metaDataFormat: yaml
 footnoteReturnLinkContents: '&#8617;'
-paginate: 5
+pagination.pagerSize: 5
 preserveTaxonomyNames: yes
 ignoreFiles:
   - \.Rmd$
