@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:4321/project/</loc>
+    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/project/2025-11-06-admission-data/</loc>
+    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/</loc>
+    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:4321/blog/football-series/2025-01-26-argentina-s-unsung-hero/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,9 +41,6 @@
     <loc>//localhost:4321/tags/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/</loc>
-    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:4321/blog/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -46,27 +52,6 @@
   </url><url>
     <loc>//localhost:4321/collection/2025-01-20-world-cup-stats/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/project/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/categories/package/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/categories/r/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/project/giraffes/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/categories/theme-features/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/project/penguins/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/project/bakeoff/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/form/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>

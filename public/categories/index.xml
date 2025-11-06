@@ -22,26 +22,5 @@
       <guid>//localhost:4321/categories/soccer/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Package</title>
-      <link>//localhost:4321/categories/package/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/package/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>R</title>
-      <link>//localhost:4321/categories/r/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/r/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Theme Features</title>
-      <link>//localhost:4321/categories/theme-features/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/theme-features/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

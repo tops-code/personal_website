@@ -7,7 +7,7 @@ copyright: ''
 googleAnalytics: ''
 metaDataFormat: yaml
 footnoteReturnLinkContents: '&#8617;'
-pagination.pagerSize: 5
+paginate: 5
 preserveTaxonomyNames: yes
 ignoreFiles:
   - \.Rmd$
